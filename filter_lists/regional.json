@@ -215,8 +215,8 @@
         "format": "Standard",
         "langs": ["it"],
         "support_url": "https://forums.lanik.us/viewforum.php?f=96",
-        "component_id": "nkmllpnhpfieajahfpfmjneipnddhimi",
-        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAurn1cJrIcCa8P7hjGex+OUHi19PRxmjJ5DuQlMAeIaKibwaQOZEPXSvD+O+xgxHZJs1o2DE8zfj6yrAmDfu9+/T0ArT2RWuopDMEfaKdeG0ylHP62WJC+KGUhCiTNmLyPxbU9AiwydVyFOam8vs4Tr+9I3lYKVeClQrtDRM34BTOAsuHRjiuIKoC0jDC2kc+BAsAbzhIdrkEDGD+qx0rCRnGL6c8xODe2PLKSkCSIsqOk44eYOkBqQd0SgmCvQjXS2XczMDNuV7DCZofErsy2iEv/2kzhkkN8GFwbRkYGN9LuK8rtekE34AvZKRHS6e/pHjUCYJb/2xv6elC+VLsJwIDAQAB",
+        "component_id": "oodhnnpbnajkceclmihnnjkcdoahkaae",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmkE+p2Ogo9SyB41mukmZvp2Ov8bD+Q0nU1/+XyiT3k2eAv46qBhpWdAASxCIhhL0MlEvXL/fQzUiAor94RWvQ8weUxNgGqynouyrT++wHmWZCRW/eoBfxy3CjrTGRvcpRIt7KIi0CxjLGalYNZ4dYUm5ugom/PK1b5x7AJQO54CFci5uLgq5zZOXS61MObZ1ZImQLfglA5VU+jyke0dBXEXpPtCZK/EpMyHFYkM6lqFzeoePKWngVXWfRfBPsMOpP884SJ+5Mfgt6EmxVTKY/rnlZduTHXcebNd9wzNdSMAFhdJYSALzZaae4bKrnH9YIFEy1byva6K88T67xC/oBQIDAQAB",
         "desc": "Removes advertisements from Italian websites"
     },
     {
