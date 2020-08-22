@@ -308,7 +308,7 @@
         "desc": "Removes advertisements from Polish websites"
     },
     {
-        "uuid": "70094144-0798-4D41-8ABF-2F1C7639B1B6",
+        "uuid": "70094144-0798-4D41-8ABF-04D9F51DD2BC",
         "url": "https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-adblock.txt",
         "title": "Oficjalne Polskie Filtry Przeciwko Alertom o Adblocku",
         "format": "Standard",
@@ -319,7 +319,7 @@
         "desc": "Defuses anti-adblock from Polish websites"
     },
     {
-        "uuid": "B06FD447-030D-47FF-A697-411E35B358AE",
+        "uuid": "B06FD447-030D-47FF-A697-04D9F51DD2BC",
         "url": "https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-adblock-suplement.txt",
         "title": "Oficjalne Polskie Filtry Przeciwko Alertom o Adblocku - Uzupełnienie",
         "format": "Standard",
