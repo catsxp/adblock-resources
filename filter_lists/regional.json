@@ -110,6 +110,28 @@
         "desc": "Removes obtrusive cookie law notices"
     },
     {
+        "uuid": "11A6CE83-A192-4A6D-BA5C-20269C3E760C",
+        "url": "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt",
+        "title": "Fanboy Annoyances List",
+        "format": "Standard",
+        "langs": [],
+        "support_url": "https://forums.lanik.us/",
+        "component_id": "jgccjldioggjdnopkljaagcbfmdbckfa",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3+dbAzCkF9/NDTAoCSwcq9KaDXReOrh/O1bREV7Y+jsZ0ODR1c95uwHNxuK/FCBdCJxskH2JY+KHT37rnedEX8fCTwtIAm/tGXshrO4SlnVriZBBxBXjuRirQ0JB57/qx/38oxA2qFGBl9CxnNLUN/UJXnSxHLDelqii32qL/4o2e4VrfSgM1EiR8zGSXOL8yYe9uKHH+Ay1ruhWuLoBHp7FND7ouLmAiPOVrgHVITHfdn4a5j3JnINUMZEpPaaPSLtO22BpjtPhNyx4oI3hIyfzqyGOCWQ8TMq/gJ5rIwy6/ZDKoV8cIx8818PBBPCy+rrGF1FJ4d3niPASXvWZYwIDAQAB",
+        "desc": "Removes Web annoyances"
+    },
+    {
+        "uuid": "E23B5E1E-11BC-4407-8BEE-64C0B191363C",
+        "url": "https://easylist-downloads.adblockplus.org/fanboy-social.txt",
+        "title": "Fanboy Social List",
+        "format": "Standard",
+        "langs": [],
+        "support_url": "https://forums.lanik.us/",
+        "component_id": "ifchgbdpmfphgjikbcbfpebjmnaoclec",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwEQWPtYIiupLwRaN8YIljU+ezNV4Ely2kL8XZ9cRYi3vd5UFy5aEHyRY3dQZzuPWd7BrRRIaDcATajjJpf/tLqdMxwRLaJY6vBBlQq4BSn1UTRRDjuJtbxY+yt43/Ao2wCHHtr2tRMa2l9eN3RAUO9fLECTRrwbu8ehZI9Q0IzXVb800O29tJ0R3NSeW0nABJTDsT9niCLSHbFsMsMDAeT7WIg4h+8ZUCNykRHH++aCQFKk3qUlTirU9DwvrwEyh8+zRH0b+l5td50gOEUftZN3EIPP8TIggOZh7VwBVSezhXpam3yJmy59Gx1Dm6Smk+vhzy3hgihTAZ9+CV1O4TQIDAQAB",
+        "desc": "Removes Social Elements"
+    },
+    {
         "uuid": "CF7D2770-1844-11EA-9B0C-04D9F51DD2BC",
         "url": "https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt",
         "title": "Finnish Addition to Easylist",
@@ -297,6 +319,17 @@
         "desc": "Removes advertisements from Dutch websites"
     },
     {
+        "uuid": "33956913-93FA-4D0B-B7AA-6BB39AB8B8F4",
+        "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianList.txt",
+        "title": "Dandelion Sprout's Nordic Filters",
+        "format": "Standard",
+        "langs": ["nb", "nn", "no", "da", "is"],
+        "support_url": "https://github.com/DandelionSprout/adfilt/issues",
+        "component_id": "icglclpjmcaanhlkencnhbepokdaoncd",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3+dbAzCkF9/NDTAoCSwcq9KaDXReOrh/O1bREV7Y+jsZ0ODR1c95uwHNxuK/FCBdCJxskH2JY+KHT37rnedEX8fCTwtIAm/tGXshrO4SlnVriZBBxBXjuRirQ0JB57/qx/38oxA2qFGBl9CxnNLUN/UJXnSxHLDelqii32qL/4o2e4VrfSgM1EiR8zGSXOL8yYe9uKHH+Ay1ruhWuLoBHp7FND7ouLmAiPOVrgHVITHfdn4a5j3JnINUMZEpPaaPSLtO22BpjtPhNyx4oI3hIyfzqyGOCWQ8TMq/gJ5rIwy6/ZDKoV8cIx8818PBBPCy+rrGF1FJ4d3niPASXvWZYwIDAQAB",
+        "desc": "Removes advertisements from Norwegian, Danish and Icelandic websites"
+    },
+    {
         "uuid": "596988C0-1845-11EA-9B70-04D9F51DD2BC",
         "url": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt",
         "title": "Oficjalne Polskie Filtry do AdBlocka, uBlocka Origin i AdGuarda",
@@ -449,5 +482,16 @@
         "component_id": "dolejkcefmnklalcndoipbkhppobhjmf",
         "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApBJ63nXd+CwrmdhGDtZkP/HQPdn2WMizokjBLQ/XBeo0907660Y9n+Ku1kksKITJkyhvgsqK8AD1Q0Pwi3+K7Dq+O+PHxHhBTexNT1Iz2lMflX9t72pE9Hg2rtf0GcXA2AfPXnH+FMvoHHWqdKgqYk2hDykpeB1+CShQmxpfcZ5okiWz6IChl6dWFLRaoZMq3wfpCAWHji8J4SyizedUXtEVN+8YeH+kedHitvq/SYAHapzb8EGZnDQ7KekMBLb3Uc5q/KVIqHYyysJ8jAKmpDLoTd8/Z6+UvTzzYtWB2Kj+E/xflFdoQQ/X7tkQFUgN4fB5DxLtKp+JFi/BjJrHLQIDAQAB",
         "desc": "Removes advertisements from Vietnamese websites"
+    },
+    {
+        "uuid": "FB11F40E-28D4-498F-80FF-E9ADFBD5A5F0",
+        "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt",
+        "title": "uBlock Annoyances List (used with Fanboy Annoyances List)",
+        "format": "Standard",
+        "langs": [],
+        "support_url": "https://github.com/uBlockOrigin/uAssets",
+        "component_id": "iodeopmbbppdnpalimcdjfjohpfdkgee",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAstMHZyABfZIqZxN8/iGrxnMt39/pJyZMO3YT/GKjdNJvJ+lCNyH3dub7y0y5+pGJX4gWA8UeVFGRlItvgBlNER8S4cm/ed7yzta7nOsKRAQgYiPw+iVE35t4VuIGPX3XU2a0mYzz43egvELNePDzCp2dvHfvJFnglU+LvN39kj4VvYMq5HDn6myHjIQMCJBkfhVxYPxkVFPKcCEc9ddmMch3KTKii6Oft7k3KQYs+izaGjeqMd5THnLKNjCjPUVvwfLxRujce7JwoJJi9ly4A6XG8X4uOJJDN8pHuHKknM4bvRUZXsr8zCk2MqcbsN+UOnyyWiCateu0SBJPw9I9fQIDAQAB",
+        "desc": "Removes Web Annoyances, Supplemental uBO list"
     }
 ]
