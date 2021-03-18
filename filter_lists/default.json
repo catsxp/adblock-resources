@@ -1,111 +1,118 @@
 [
     {
-        "uuid": "AAB94120-6CD9-4A96-9480-D6D323C73909",
+        "uuid": "5AAB916F-13BE-4431-AD00-7117C5A4D3A9",
         "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt",
         "title": "uBlock Origin Filters",
         "format": "Standard",
         "support_url": "https://github.com/uBlockOrigin/uAssets"
     },
     {
-        "uuid": "9F1AFA33-F034-4AE9-A927-6C293867EAF1",
+        "uuid": "C3D497D7-AF1C-4BB9-85A1-744CB6C02876",
         "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt",
         "title": "uBlock Origin 2020 Filters",
         "format": "Standard",
         "support_url": "https://github.com/uBlockOrigin/uAssets"
     },
     {
-        "uuid": "4dda991a-cf59-4acf-82dc-c93bf38fbb31",
+        "uuid": "14B8010B-97DF-454E-AE32-C2E040D27780",
+        "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt",
+        "title": "uBlock Origin 2021 Filters",
+        "format": "Standard",
+        "support_url": "https://github.com/uBlockOrigin/uAssets"
+    },
+    {
+        "uuid": "3689C440-7568-4B5F-8109-3B1DDBDD9E6C",
         "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt",
         "title": "uBlock Origin filters - Badware risks",
         "format": "Standard",
         "support_url": "https://github.com/uBlockOrigin/uAssets"
     },
     {
-        "uuid": "744e5fb2-5446-4578-a097-68efd098ed5e",
+        "uuid": "03E461B7-2759-4855-A9BB-601078204DD9",
         "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt",
         "title": "uBlock Origin filters – Privacy",
         "format": "Standard",
         "support_url": "https://github.com/uBlockOrigin/uAssets"
     },
     {
-        "uuid": "e3efec89-1902-4378-b49d-79de6e06aa1a",
+        "uuid": "D3D5F9DB-6B52-4459-A160-F227ED02192F",
         "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt",
         "title": "uBlock Origin filters – Resource abuse",
         "format": "Standard",
         "support_url": "https://github.com/uBlockOrigin/uAssets"
     },
     {
-        "uuid": "200392E7-9A0F-40DF-86EB-6AF7E4071322",
+        "uuid": "E50D1B18-82AD-4F69-9C20-1F6AA7103996",
         "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt",
         "title": "uBlock Origin filters - Unbreak",
         "format": "Standard",
         "support_url": "https://github.com/uBlockOrigin/uAssets"
     },
     {
-        "uuid": "67F880F5-7602-4042-8A3D-01481FD7437A",
+        "uuid": "74F89A0F-AE46-4A04-AB1E-754B6FEADDE1",
         "url": "https://easylist.to/easylist/easylist.txt",
         "title": "EasyList",
         "format": "Standard",
         "support_url": "https://easylist.to/"
     },
     {
-        "uuid": "48010209-AD34-4DF5-A80C-3D2A7C3920C0",
+        "uuid": "1ED8B977-3FDD-49CE-BEC7-F45BBD6FD001",
         "url": "https://easylist.to/easylist/easyprivacy.txt",
         "title": "EasyPrivacy",
         "format": "Standard",
         "support_url": "https://easylist.to/"
     },
     {
-        "uuid": "56b195f1-4b7b-4070-94c1-b720a650c8bc",
+        "uuid": "9A6CED07-BB5A-478D-8279-1F076B794A4E",
         "url": "https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-online.txt",
         "title": "URLhaus Malicious URL Blocklist",
         "format": "Standard",
         "support_url": "https://gitlab.com/curben/urlhaus-filter"
     },
     {
-        "uuid": "40e22155-6b6d-43fc-a407-6844af78025a",
+        "uuid": "9B4DE299-5121-4D22-BD00-B9DF060ED1A3",
         "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
         "title": "Peter Lowe's Ad and tracking server list",
         "format": "Standard",
         "support_url": "https://pgl.yoyo.org/adservers/"
     },
     {
-        "uuid": "2FBEB0BC-E2E1-4170-BAA9-05E76AAB5BA5",
+        "uuid": "10D7CCB8-2147-4ABC-87D8-CCFEB7AB670E",
         "url": "https://raw.githubusercontent.com/catsxp/adblock-lists/master/catsxp-unbreak.txt",
         "title": "Catsxp Unbreak",
         "format": "Standard",
         "support_url": "https://github.com/catsxp/adblock-lists"
     },
     {
-        "uuid": "BCB1AFD7-7563-4BD4-B1F1-AEA01D38E982",
+        "uuid": "9A42FB5F-B1A5-4265-82AC-DF3CA7EB0B6E",
         "url": "https://raw.githubusercontent.com/catsxp/adblock-lists/master/catsxp-lists/catsxp-specific.txt",
         "title": "Catsxp Specific",
         "format": "Standard",
         "support_url": "https://github.com/catsxp/adblock-lists"
     },
     {
-        "uuid": "9752d6b2-9e5d-4d56-a7e8-c2ee0f181ea3",
+        "uuid": "1981142B-F6FF-4D63-99C4-2F898CD81D1F",
         "url": "https://raw.githubusercontent.com/catsxp/adblock-lists/master/catsxp-lists/catsxp-social.txt",
         "title": "Catsxp Social",
         "format": "Standard",
         "support_url": "https://github.com/catsxp/adblock-lists"
     },
     {
-        "uuid": "805662ef-a1aa-4948-9f6e-72603823e886",
+        "uuid": "9B99B295-A8B7-4AF8-B182-D696356718A7",
         "url": "https://raw.githubusercontent.com/catsxp/adblock-lists/master/catsxp-lists/catsxp-unbreak.txt",
         "title": "Catsxp Unbreak",
         "format": "Standard",
         "support_url": "https://github.com/catsxp/adblock-lists"
     },
     {
-        "uuid": "08ac2f6d-f7c5-4670-a8ec-9b2591bdfd0d",
+        "uuid": "1981142B-F6FF-4D63-99C4-2F898CD81D1F",
         "url": "https://raw.githubusercontent.com/catsxp/adblock-lists/master/catsxp-lists/catsxp-ios-specific.txt",
         "title": "Catsxp iOS-Specific Rules",
         "format": "Standard",
         "support_url": "https://github.com/catsxp/adblock-lists"
     },
     {
-        "uuid": "49254a7e-396e-4d1f-af48-f5730e22e1ce",
+        "uuid": "9A42FB5F-B1A5-4265-82AC-DF3CA7EB0B6E",
         "url": "https://raw.githubusercontent.com/catsxp/adblock-lists/master/catsxp-lists/catsxp-android-specific.txt",
         "title": "Catsxp Android-Specific Rules",
         "format": "Standard",
