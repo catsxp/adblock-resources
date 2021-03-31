@@ -111,7 +111,7 @@
     },
     {
         "uuid": "11A6CE83-A192-4A6D-BA5C-20269C3E760C",
-        "url": "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt",
+        "url": "https://raw.githubusercontent.com/silentely/adblock-acceleration/master/fanboy-annoyance.txt",
         "title": "Fanboy Annoyances List",
         "format": "Standard",
         "langs": [],
