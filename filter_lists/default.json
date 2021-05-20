@@ -105,13 +105,6 @@
         "support_url": "https://github.com/catsxp/adblock-lists"
     },
     {
-        "uuid": "1981142B-F6FF-4D63-99C4-2F898CD81D1F",
-        "url": "https://raw.githubusercontent.com/catsxp/adblock-lists/master/catsxp-lists/catsxp-ios-specific.txt",
-        "title": "Catsxp iOS-Specific Rules",
-        "format": "Standard",
-        "support_url": "https://github.com/catsxp/adblock-lists"
-    },
-    {
         "uuid": "9A42FB5F-B1A5-4265-82AC-DF3CA7EB0B6E",
         "url": "https://raw.githubusercontent.com/catsxp/adblock-lists/master/catsxp-lists/catsxp-android-specific.txt",
         "title": "Catsxp Android-Specific Rules",
