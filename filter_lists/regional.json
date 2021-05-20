@@ -33,6 +33,17 @@
         "desc": "Removes advertisements on Chinese websites"
     },
     {
+        "uuid": "88223F4F-E063-4CC8-B13A-E67D085D230F",
+        "url": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt",
+        "title": "乘风 (中文)",
+        "format": "Standard",
+        "langs": ["zh"],
+        "support_url": "https://github.com/xinggsf/Adblock-Plus-Rule",
+        "component_id": "bjekdmdpbgoakdhdmjfplnbmffahghdl",
+        "base64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsA7ezglfoo9yr+Iw1d5ni920UQTQOkXO/9+1Jv6l5TSevYkVLnu0rwRfdNax3LWeTE+9McFb+tzW3ePwBO68nIvF7XePs7TmE8qJww2wn7pquibWZ6OEEYFfVQSNeaYOrLkkLeLYY6RHJU8TgURgh53O+MuzTla1vszHLicLbNhQqnub82Ic3LoWOsoEHENjGoq4xwUZwpXDTAQQtLBG9wWdpZ/ViiL7/linWFv17TKwjRyMsyUME2QihY+k6DvBgVDPGh+JMdOeUwo7SlXC2Rkadex6+kBc0LN9Q5PSd2vjNbrmo2sB0FsGv+cFpWegJWml+ci7AayRJ6V5rV341wIDAQAB",
+        "desc": "Removes advertisements on Chinese websites"
+    },
+    {
         "uuid": "90204C5E-1844-11EA-9AE6-04D9F51DD2BC",
         "url": "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt",
         "title": "CJX's Annoyance List",
